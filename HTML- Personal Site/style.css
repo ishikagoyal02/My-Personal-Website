@@ -1,6 +1,6 @@
 .main {
   display: flex;
-  background-color: BCEAD5;
+  background-color: BCEAD5;      /*  always align your code and I removed style tag, style tag works in html not in css */
 }
 
 img {
@@ -27,8 +27,8 @@ hr {
   border: 1px dotted black;
 }
 
-p {
-  padding: 0 10px;
+.intro {
+  padding: 0 10px;   /* this class for your intro written over there */
 }
 
 .name {
